@@ -61,8 +61,6 @@ const gameSlice = createSlice({
 
         state.currentRow++;
         state.currentWord = [];
-      } else if (state.currentWord.length < 5) {
-        toast.error('The word need have 5 letters!');
       }
     },
 
