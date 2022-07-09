@@ -26,7 +26,7 @@ function UserStat() {
         </p>
         <p className='mb-2'>
           Este jogo é open-source e o código dele está disponível{' '}
-          <a className='underline' href='https://github.com/marcossouto0/'>
+          <a className='underline' href='https://github.com/marcossouto0/letrando'>
             neste repositório do Github
           </a>
         </p>
